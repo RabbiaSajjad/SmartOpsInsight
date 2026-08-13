@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/SmartOps.Api/SmartOps.Api.csproj" />
+    <Project Path="src/SmartOps.Application/SmartOps.Application.csproj" />
+    <Project Path="src/SmartOps.Domain/SmartOps.Domain.csproj" />
+    <Project Path="src/SmartOps.Infrastructure/SmartOps.Infrastructure.csproj" />
+  </Folder>
+</Solution>

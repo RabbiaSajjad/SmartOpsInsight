@@ -1,0 +1,26 @@
+# Build output
+**/bin/
+**/obj/
+
+# User-specific files
+*.user
+*.suo
+.vs/
+
+# Visual Studio Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Test results
+TestResults/
+
+# Coverage
+coverage/
+*.coverage
